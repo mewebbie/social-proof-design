@@ -127,7 +127,6 @@ p:nth-child(2) {
     .fbox1 {
         display:flex;
         flex-direction:column;
-        overflow:hidden;
     }
     .testimonial {
         display:flex;
