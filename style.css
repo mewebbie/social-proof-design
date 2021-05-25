@@ -103,11 +103,11 @@ p:nth-child(2) {
 }
 #user2 {
     position:relative;
-        top:12.5px;
+    top:12.5px;
 }
 #user3 {
     position:relative;
-        top:25px;
+    top:25px;
 }
 @media all and (max-width:1200px) {
     #rb2,
