@@ -122,6 +122,8 @@ p:nth-child(2) {
         flex-direction:row;
         justify-content: flex-start;
     }
+    .user {
+        height:unset;
 }
 @media all and (max-width:970px) {
     .fbox1 {
