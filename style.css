@@ -124,6 +124,7 @@ p:nth-child(2) {
     }
     .user {
         height:unset;
+    }
 }
 @media all and (max-width:970px) {
     .fbox1 {
